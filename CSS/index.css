@@ -33,7 +33,7 @@ body {
   cursor: pointer;
 }
 
-.nav-buttons {
+.navig-buttons {
   text-decoration: none;
   font-weight: 500;
   font-size: 14px;
@@ -42,8 +42,8 @@ body {
   letter-spacing: 0.02em;
 }
 
-.nav-buttons:hover,
-.nav-buttons:focus {
+.navig-buttons:hover,
+.navig-buttons:focus {
   color: var(--active-color);
 }
 
